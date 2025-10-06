@@ -1,3 +1,5 @@
+pub mod erc20_token;
+pub mod token_quest;
 use anchor_lang::prelude::*;
 
 declare_id!("FvL8EsJaexUA9K5rsS8eXJsQB81ftvadprKp7MaMs7KL");
